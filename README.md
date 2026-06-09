@@ -1,1 +1,3 @@
-# Convolutional-Neural-Networks-TomatoDoc-Models
+This repository contains Google colab Notebooks created to develop two Convolutional Neural Network models. The first one is for classifying if an image is either a tomato leaf or not. The second one is to classify the tomato leaf as healhy or either one of the nine diseases of tomatos including Mosaic_virus, Yellow_Leaf_Curl_Virus, Target_Spot, Spider_mites & Two-spotted_spider_mite, Septoria_leaf_spot, Leaf_Mold, Late_blight, Early_blight and Bacterial_spot.
+
+The two models will work hand in hand in TomatoDoc project where if the program will consult the first model if an image is a tomato leaf or not, if it is the second model will be asked to classify it while if not the prgram will just simply say that it is not a tomato leaf!
